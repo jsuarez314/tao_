@@ -1,4 +1,6 @@
-## About the dataset.
+# About the dataset.
+
+## Transients Objects
 
 For the Transients objects, you can find in the fits images' headers the next information: 
 
@@ -32,7 +34,7 @@ In hdu 1, you can find a table that contains information to identify the images 
 | Obs_In_Seq              | Refers to the observation’s number in the sequence.                               |
 | Cutout                  | The cutout matrix location. Each cutout covers an area of ABOUT 5 x 5 arcminutes. |
 
-
+## Non-Transients Objects
 
 For non-Transients objects, you can find in the fits images' headers the next information: 
 
@@ -56,6 +58,6 @@ Also, in hdu 1, you can find a table that contains information to identify the i
 | Cutout                  | The cutout matrix location. Each cutout covers an area of ABOUT 5 x 5 arcminutes. |
 
 
-## How to read the dataset?
+# How to read the dataset?
 
 An example of how to read the data set is [here](../blob/master/Read_dataset.ipynb).
