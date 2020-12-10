@@ -60,4 +60,4 @@ Also, in hdu 1, you can find a table that contains information to identify the i
 
 # How to read the dataset?
 
-An example of how to read the data set is [here](../blob/master/Read_dataset.ipynb).
+An example of how to read the data set is [here](../master/Read_dataset.ipynb).
